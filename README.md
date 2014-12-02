@@ -1,12 +1,10 @@
-heroku-buildpack-submodule-example-submodule
-============================================
+_heroku-buildpack-submodule-example-submodule_
+==============================================
 
-Submodule to be used within a Heroku buildpack.
-
-Part of [heroku-buildpack-submodule-example](https://github.com/mietek/heroku-buildpack-submodule-example/).
+Submodule for my [example Heroku buildpack](https://github.com/mietek/heroku-buildpack-submodule-example).
 
 
-License
--------
+About
+-----
 
-[MIT X11](https://github.com/mietek/license/blob/master/LICENSE.md) © [Miëtek Bak](http://mietek.io/)
+Made by [Miëtek Bak](https://mietek.io/).  Published under the [MIT X11 license](https://mietek.io/license/).
